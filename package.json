@@ -2,6 +2,10 @@
     "name": "python-package-creator",
     "displayName": "Python Package Creator",
     "description": "Create Python packages directly from the VS Code Explorer.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pedroaba/python-package-creator.git"
+    },
     "publisher": "pedroaba-ext",
     "version": "0.0.1",
     "engines": {
